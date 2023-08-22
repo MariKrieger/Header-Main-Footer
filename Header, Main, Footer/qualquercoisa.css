@@ -1,0 +1,34 @@
+header {
+    background-color: pink;
+    margin: auto;
+    padding: auto;
+    height: 320px;
+    font-size: 160px;
+    color: black;
+    font-family: fantasy;
+    text-align: center;
+}
+
+main {
+    background-color:rgb(154, 102, 197) ;
+    margin: auto;
+    padding: auto;
+    height: 320px;
+    font-size: 160px;
+    color: black;
+    font-family: fantasy;
+    text-align: center;
+}
+
+footer {
+    background-color: aquamarine;
+    margin: auto;
+    padding: auto;
+    height: 320px;
+    font-size: 160px;
+    color: black;
+    font-family: fantasy;
+    text-align: center;
+}
+
+
